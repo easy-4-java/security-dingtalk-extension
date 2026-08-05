@@ -17,7 +17,7 @@
         <java.version>1.8</java.version>
         <dingtalk-extension.version>1.0.x.20260630-SNAPSHOT</dingtalk-extension.version>
         <spring-security.version>5.6.0</spring-security.version>
-        <spring-security-extension.version>1.0.x-SNAPSHOT</spring-security-extension.version>
+        <spring-security-extension.version>3.0.x.20260630-SNAPSHOT</spring-security-extension.version>
     </properties>
 
     <dependencies>
